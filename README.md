@@ -1,1 +1,1 @@
-Repositório feito pra armazenar os conteúdos da IC
+Repositório feito pra armazenar os conteúdos do LabPI
